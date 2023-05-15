@@ -12,7 +12,7 @@ I have taken a very simple test scenario for the sample. Open servicensw website
 
 3. If you want to run your tests through testng.xml , You can perform following steps.
 
-	1.Eclipse>Project Explorer
+	1.Project Explorer
 	2.Open/Expand the project
 	3.Right click on the testng.xml
 	4.Run As> TestNG Suite
